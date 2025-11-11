@@ -2,9 +2,9 @@ pa\_db\_1p8\_5p4 refers to a power amplifier (PA) operating in dual-band mode, w
 
 ## Authors
 
-Luiz Augusto Shoiti Tsurukawa
-Luis Schuartz
-Eduardo Goncalves de Lima
+Luiz Augusto Shoiti Tsurukawa 
+Luis Schuartz 
+Eduardo Goncalves de Lima 
 
 ## Structure
 
@@ -19,11 +19,11 @@ Folders f0 to f3 contain the MATLAB scripts and functions used to process the da
 # Simulation Statistics
 
 Gain - Execution Time - Storage Used
-gain 0.02 - 3h 23m 48s - 17 GB
-gain 0.04 - 2h 31m 01s - 18 GB
-gain 0.06 - 3h 43m 38s - 18 GB
-gain 0.08 - 3h 58m 58s - 19 GB
-gain 0.10 - 4h 07m 27s - 19 GB
+gain 0.02 - 3h 23m 48s - 17 GB 
+gain 0.04 - 2h 31m 01s - 18 GB 
+gain 0.06 - 3h 43m 38s - 18 GB 
+gain 0.08 - 3h 58m 58s - 19 GB 
+gain 0.10 - 4h 07m 27s - 19 GB 
 
 Folder f4 contains the simulation data. Each dataset is stored in:
 \\f4\_data\\gain\_0pxx\\f3\_pa\_demod\\pa\_data.mat
